@@ -2,7 +2,7 @@
 
 ## In this tutorial, we finish our coin ticker by implementing the home activity using common RxJava patterns. 
 
-### Check out the Youtube Tutorial for this [Kotlin Tutorial](https://youtu.be/3Dgs5wAofng).  Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
+### Check out the Youtube Tutorial for this [Kotlin Tutorial](https://youtu.be/MYBHKzAbCZU).  Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
 
 ### Check out our blog at [tensor-programming.com](http://tensor-programming.com/).
 
